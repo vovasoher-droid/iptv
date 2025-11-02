@@ -37687,3 +37687,642 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 #EXTINF:-1 group-title="ФИЛЬМЫ.Пользуйтесь поиском",Ёлки последние (2018)
 #EXTGRP:ФИЛЬМЫ.Пользуйтесь поиском
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Yelki_Poslednie_2018/stream.m3u8
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Инфоканал
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Infokanal_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Первый канал
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Perviy_SD_Studiya.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Первый канал +2
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Perviy_2.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Первый канал +4
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Perviy_4.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Первый канал +6
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Perviy_6.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Матч
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Match_SD_OTT_Studiya.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",НТВ
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=NTV.m3u8
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",НТВ +2
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=NTV_2.m3u8
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",НТВ +4
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=NTV_4.m3u8
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",НТВ +7
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=NTV_7.m3u8
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Карусель
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Karusel.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Карусель +2
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Karusel_2.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Карусель +4
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Karusel_4.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Карусель +7
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Karusel_7.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",ОТР
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=OTR.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",ТВ-Центр
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=TVZ.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",ТВ3
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=TV_3.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Пятница
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=5niza.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Звезда
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Zvezda.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",МИР
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mir.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",МИР +4
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mir_4.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",МИР +7
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mir_7.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",ТНТ
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=THT_SD_Studiya.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Муз ТВ
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Muz_TV.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Супер (Суббота)
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Super.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",День победы
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Den_Pobedy.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",ТНТ4
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=TNT4.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Победа HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Pobeda.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Тномер
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Tnomer.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Первый канал HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Perviy_HD_Studiya.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Матч! HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Match_HD_OTT_Studiya.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",НТВ HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=NTV_HD.m3u8
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",ТНТ HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=TNT_HD_OTT_Studiya.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Большой Эфир
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=ChannelLIVE.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Бум
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Channel_LIVE1.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Поединок
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Channel_LIVE2.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Искусство
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Channel_LIVE3.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Игра
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Channel_LIVE4.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Сила
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Channel_LIVE5.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Премиальное HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Premialnoe_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Остросюжетное HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Ostrosuzhetnoe.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Шокирующее HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=Kinopokaz_1.m3u8
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Комедийное HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=Komediinoe.m3u8
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Романтичное HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Romantichnoe.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Душевное HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=HD_Nash_Kinoroman.m3u8
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Наше Крутое HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=Nashe_krutoe_HD.m3u8
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Любимое HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Lubimoe_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Дом Кино
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=D_Kino.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Дом Кино Премиум HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=HD_Dom_Kino_premium.m3u8
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Кинопоказ HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinopokaz_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",FAN HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=FAN_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Кино ТВ HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kino_TV_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Индийское Кино
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Indiyskoe_kino.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Сиеста HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Siesta_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Cinema
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=Cinema.m3u8
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Комедия
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=Komediya.m3u8
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Кинокомедия
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinokom.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Киносвидание
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinosvidanie.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Родное Кино
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Rodnoe_kino.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Хит HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Hit_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Блокбастер HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Blokbaster_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",А1
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Amedia_a1.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Amedia Premium SD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Amedia_premium.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Bollywood
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Bollywood.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Мосфильм HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",А2
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Amedia_a2.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Наш Кинопоказ HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Nash_kinopokaz_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Камеди HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kamedi_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Наше Мужское HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Nashe_Muzhskoe_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Про Любовь HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Pro_Love_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Еда. Рецепты Лазерона
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Vsegda_govori_vsegda.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Русский Детектив
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=Russkiy_detektiv.m3u8
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Русский Роман
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=Ruskiy_roman.m3u8
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Русский Бестселлер
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Rus_Bests.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Наше Новое Кино
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Nashe_novoe_kino.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Киносерия
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinoseria.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Киномикс
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinomiks.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Мужское Кино
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Men_Kino.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",НСТ
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=NST.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Flix Ship
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Flix_Snip.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Trash
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Trash.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Дорама
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Dorama.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Zee TV
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=Zee_TV.m3u8
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Капитан Фантастика HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Ginger.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Nickelodeon HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Nickelodeon_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",О!
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=O.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Рыжий
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Ryzhiy.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Канал Disney
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Disney.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Мульт HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mult_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Мульт
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mult.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Ani
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Ani.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Мультиландия
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Multilandiya.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Картон Нетворк
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Cartoon_Network.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Бумеранг
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Boomerang.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Nickelodeon
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Nickelodeon.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Nick JR
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Nick_Jr.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Tiji
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=Tiji.m3u8
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Gulli Girl
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Gulli.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Уникум
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Unikum.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Детский Мир
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Detskiy_Mir.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",JimJam
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=JimJam.m3u8
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Amedia Hit
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Amedia_hit.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Малыш ТВ
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Malish.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Радость Моя
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=Radost_moya.m3u8
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Мультимузыка
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Multimuzyka.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",В Гостях У Сказки
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=V_gostyakh_u_skazki.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Еда Премиум
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=HD_Eda.m3u8
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Еда
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=Eda.m3u8
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Охотник и Рыболов HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Oh_Rbl.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Рыболов
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Rybalov.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Охотник и Рыболов HD Int
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Ohotnik_i_ryb_int_HD.m3u8&serviceArea=GLOBAL
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Fashion One HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Fashion_one.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",History HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=History_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Gagsnetwork
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Gagsnetwork.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",History 2
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HISTORY_2.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",TVMChannel
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=TVMChannel.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Мир Вокруг HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mir_vokrug_HD.m3u8&serviceArea=GLOBAL
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Точка Отрыва
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Tochka_otryva.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Ю
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=U.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Автоплюс
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Autoplus.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Е HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Telekanal_E_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Кухня ТВ
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kuhnya_TV.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Luxury HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Luxury_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Телекафе
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Telecafe.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Мама
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mama.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Центральное ТВ
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Centralnoe_TV.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Сарафан
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Sarafan.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Анекдот ТВ
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Anekdot_TV.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Зал Суда
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Zal_suda.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Бобер
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Bober.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",КВН ТВ
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=KVN.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",HGTV
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HGTV.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Приключения HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Teletr.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Телепутешествия
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Telepyt.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Эврика HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Eureka.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",В Мире Животных
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Anim_Fam.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",ЗооТВ
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Zoo_TV.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Insight HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=INSIGHT.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Top Secret
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Top_secret.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Моя Планета HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Moya_Planeta_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Первый Вегетарианский
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Perviy_Vegetor.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Загородный HD Int
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Zagorodniy_int_HD.m3u8&serviceArea=GLOBAL
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Загородный
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Zagorod_TV.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Т24
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Tehno24.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Живая Планета
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Zhivaya_Planeta.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Моя Планета
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Moya_Planeta.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",История
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Istoriya.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Наука
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Nauka.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",365 дней
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=365.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Время
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Vremya.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Поехали
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Poehali.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Russia Today Doc
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=RTD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Наша Тема
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Nasha_Tema.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Арсенал HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Arsenal_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Наука HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Nauka_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Тонус
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Tonus.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Оружие
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Oruzhie.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",HD Life
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HDL.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Нано HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Nano_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Открытый мир
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Otkryti_mir.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Большая Азия
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Big_Asia.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",РБК
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=RBK_TV.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Евроновости
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Euronews.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Russia Today
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=RT.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",CCTV-4
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=CCTV4.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",CGTN
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=CGTN.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",CGTN Russia
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=CGTN_Rus.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Матч! Арена HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=Match_Arena_HD.m3u8
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Матч! Игра HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Match_Igra_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Хоккейный HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Hokeinii_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Матч! Страна
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Match_strana.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Моторспорт ТВ HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=Motorsport_TV_HD.m3u8
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Русский экстрим HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Russkiy_Extreme.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",КХЛ HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=KHL_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",КХЛ
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=KHL.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Матч! Премьер HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Match_Premyer_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Матч! Футбол 1 HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Match_Futbol1_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Матч! Футбол 2 HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Match_Futbol2_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Матч! Футбол 3 HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Match_Futbol3_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Матч! Боец
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=Match_Boec.m3u8
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",М1 Global
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=M1_Global.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Старт HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Start.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Живи!
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Zhivi.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Бокс ТВ
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Boks.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Mezzo
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mezzo.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Музыка первого
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Muz_Perv.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",BridgeTV
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Bridge.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",BridgeTV Deluxe HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=BRIDGE_TV_DELUXE_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",BridgeTV Русский Хит
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=BRIDGE_TV_Russkiy_hit.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",BridgeTV Classic
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Bridge_tv_classic.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",BridgeTV Hits
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Bridge_TV_Hits.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Жара
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Zhara.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Шансон ТВ
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Shanson.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",ТНТ Music
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=TNT_Mus.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Europa Plus TV
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Eur_Plus.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Страна FM
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=T_r_strana_fm.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Ля-Минор
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=La_Minor.m3u8
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Москва 24
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Moskva24.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Санкт-Петербург
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=SanktPeterburg.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",ТНВ Планета
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=TNV_planeta.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",БСТ
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=BST.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Грозный
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?serviceArea=MSK-SA-1&source=Grozniy.m3u8
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Ингушетия
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Ingushetiya.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",СвоёТВ Ставрополь
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=SvoeTV_Stavropolskiy_krai.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",ЛенТВ 24
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=LenTV24.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Советское кино
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Serial.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Сваты
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Belye_volki.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Братаны
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Rodnoe_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Солдаты HD
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Soldaty_HD.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Шаман
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Ponyat_Prostit.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Детективы
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Detectivy.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Глухарь
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Gluhar.m3u8&serviceArea=MSK-SA-1
+#EXTINF:0group-title="🌟 ТРИКОЛОР ТВ",Следствие вели
+#EXTGRP:🌟 ТРИКОЛОР ТВ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Morskie_diavoly.m3u8&serviceArea=MSK-SA-1

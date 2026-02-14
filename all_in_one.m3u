@@ -1,9 +1,11 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 group-title="Общие", loganettv all
+#EXTINF:-1 group-title="Общие", Время загрузки каналов до 1 минуты
 https://t.me/loganettv_support
-#EXTINF:-1 group-title="Общие", telegram - t.me/loganettv_original
+#EXTINF:-1 group-title="Общие", Обновлен 14.02.2026 iStayl - лучший интенет магазин тв приставок
 https://t.me/loganettv_original
-#EXTINF:-1 group-title="Общие" tvg-id="pervy" audio-track="rus", Первый канал
+#EXTINF:-1 group-title="Общие", Обновлен 14.02.2026 Лучший интенет магазин тв приставок - iStayl
+https://t.me/loganettv_origina2
+#EXTINF:-1 group-title="Общие" tvg-id="pervy" audio-track="rus", Первый канал iStayl
 http://178.163.121.127:4022/udp/234.0.0.200:2000
 #EXTINF:-1 group-title="Общие" tvg-id="pervy" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
@@ -849,10 +851,14 @@ http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Планета
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
-#EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Премьер
+#EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Премьер - 1 сервер
 http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Премьер HD 
+#EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Премьер HD - 2 сервер
 http://vod1.stb.tvime.ru/MATCh_Premer_HD/video.m3u8?token=billing_6WJDKE9cG25U
+#EXTINF:-1 group-title="Спортивные",Матч Премьер - 3 сервер
+http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч Премьер - 4 сервер
+http://178.212.71.253:8000/play/57/index.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Футбол 3
 http://timeshift.arpinet.am/110/mpegts
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Старт Баскет

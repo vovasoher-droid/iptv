@@ -1666,8 +1666,176 @@ https://mhd128.iptv2022.com/p/c_SYzeAgaXKSjQkxkdg59Q,1775458567/streaming/sibir_
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://epg.iptvx.one/picons/lipeck24.png", Липецк 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/Mz4eWDzsgvmh9hsj4PIVIw,1775458567/streaming/lipeck_time/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16143/logo_256_1672386465.png", Известия Город Оренбург
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/zy0RtCYFkM0G7qOEiU6o2g,1775458567/streaming/gorod-orenb/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16619/logo_256_1676638161.png", Ники ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/JIKD37KGFdeuhEu4sFeCMA,1775458567/streaming/nikitv/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16899/logo_256_1679058793.png", Дзержинск ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/d1dKVP0yErIUaKeeFxy0Zg,1775458567/streaming/dzertv/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16892/logo_256_1679058569.png", Луганск 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/h3ONpZjWG_tWdZ84esT6bQ,1775458567/streaming/lugansk24/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://dl.dropbox.com/s/ma2jg7ao9rsmxmz/1683279255241.jpg", Щелково 41
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/Eqg-r2axn6BrrWZIiCxmsg,1775458567/streaming/tv41/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16906/logo_256_1679059485.png", 8 канал (Владивосток)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/_wR2paReufHXZVMTZ_aySQ,1775458567/streaming/8kanal-vladik/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/17214/logo_256_1682687911.png", РБК Пермь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/GP0joF6PVn7dMEdgyFzLqw,1775458567/streaming/rbk-perm/324/1/index.m3u8
 
-
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Trace Sport Stars HD
+https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Uzreport HD
+https://stream8.cinerama.uz/1015/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",UzSport
+https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sports 1 HD
+https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sports 2 HD
+https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
+https://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Планета
+https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport
+https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
+https://stream8.cinerama.uz/1422/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
+https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Extreme Sports
+https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
+https://flussonic.mkpnet.ru/tv-d3098523a4409835/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена
+https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Игра
+https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Премьер
+https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Страна
+https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆", UFC
+https://a3569457567-s70378.cdn.ngenix.net/ufc/2/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Viasat sport
+https://a3569457567-s70378.cdn.ngenix.net/viasat_sport/2/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Бокс ТВ
+https://a3569457567-s70378.cdn.ngenix.net/boks_tv/1/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Матч! Планета 
+https://a3569457567-s70378.cdn.ngenix.net/match_planeta/1/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆", KHL
+https://a3569457567-s70378.cdn.ngenix.net/kxl/1/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆", MMA-TV.com
+https://a3569457567-s70378.cdn.ngenix.net/m1_global/1/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Sport+
+http://188.225.31.197/bpk-tv/000008731/tve/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Q Football
+http://188.225.31.197/bpk-tv/000008848/tve/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Q Sport Arena HD
+http://188.225.31.197/bpk-tv/000007615/tve/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Q Sport League HD
+http://188.225.31.197/bpk-tv/000006969/tve/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",viju+ Sport
+http://188.225.31.197/bpk-tv/000000135/tve/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1 HD
+http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 2 HD
+http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sports 1 HD
+http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Sports 2 HD
+http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Trace Sport Stars HD
+http://188.225.31.197/bpk-tv/000001122/tve/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Удар HD
+http://188.225.31.197/bpk-tv/000007802/tve/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Qazaqstan HD
+http://188.225.31.197/bpk-tv/000004208/tve/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Qazsport HD
+http://188.225.31.197/bpk-tv/000003038/tve/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Setanta Qazaqstan HD
+http://188.225.31.197/bpk-tv/000002649/tve/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1
+http://193.25.8.59:8000/fut
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 2
+http://193.25.8.59:8000/fut2
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 3
+http://193.25.8.59:8000/fut3
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL HD
+http://193.25.8.59:8000/khl
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена
+http://193.25.8.59:8000/sport1
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport
+http://193.25.8.59:8000/viasatsport
+#EXTINF:-1 group-title="Спорткомплекс 🏆",FightBox
+http://193.25.8.59:8000/box
+#EXTINF:-1 group-title="Спорткомплекс 🏆",MMA-TV.COM
+http://tv.ttk.mx:9196
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport
+http://tv.ttk.mx:9187
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ HD
+http://tv.ttk.mx:9094
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
+http://tv.ttk.mx:9002
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч Премьер
+http://tv.ttk.mx:10000
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена
+http://tv.ttk.mx:9153
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Страна
+http://tv.ttk.mx:9154
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Игра
+http://tv.ttk.mx:9152
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! БОЕЦ
+http://tv.ttk.mx:9107
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! ФУТБОЛ 1 HD
+http://tv.ttk.mx:9114
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! футбол 1
+http://tv.ttk.mx:9108
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! ФУТБОЛ 2 HD
+http://tv.ttk.mx:9111
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 3
+http://tv.ttk.mx:9112
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! ФУТБОЛ 3 HD
+http://tv.ttk.mx:9116
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Футбол
+http://tv.ttk.mx:9065
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ HD
+http://arbiter.bolshoe.tv/?path=abr2/match_tv_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjYgNjo1NjoxMCBBTSZoYXNoX3ZhbHVlPXZCUUhReWtRcVZPblBKZXVwMjh0UkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
+http://95.181.17.26/dvr02/sd2/sport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjYgNjo1NjoxMCBBTSZoYXNoX3ZhbHVlPXZCUUhReWtRcVZPblBKZXVwMjh0UkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1 HD
+http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjYgNjo1NjoxMCBBTSZoYXNoX3ZhbHVlPXZCUUhReWtRcVZPblBKZXVwMjh0UkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 2 HD
+http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjYgNjo1NjoxMCBBTSZoYXNoX3ZhbHVlPXZCUUhReWtRcVZPblBKZXVwMjh0UkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 3 HD
+http://95.181.17.18/dvr01/sd2/NTVplusfut3HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjYgNjo1NjoxMCBBTSZoYXNoX3ZhbHVlPXZCUUhReWtRcVZPblBKZXVwMjh0UkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Игра HD
+http://arbiter.bolshoe.tv/?path=abr2/sport2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjYgNjo1NjoxMCBBTSZoYXNoX3ZhbHVlPXZCUUhReWtRcVZPblBKZXVwMjh0UkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Боец
+http://arbiter.bolshoe.tv/?path=abr1/boets/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjYgNjo1NjoxMCBBTSZoYXNoX3ZhbHVlPXZCUUhReWtRcVZPblBKZXVwMjh0UkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч Премьер HD
+http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjYgNjo1NjoxMCBBTSZoYXNoX3ZhbHVlPXZCUUhReWtRcVZPblBKZXVwMjh0UkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена HD
+http://95.181.17.26/dvr02/hd1/sport1HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjYgNjo1NjoxMCBBTSZoYXNoX3ZhbHVlPXZCUUhReWtRcVZPblBKZXVwMjh0UkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Страна HD
+http://95.181.17.18/dvr01/sd2/ntvsport/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjYgNjo1NjoxMCBBTSZoYXNoX3ZhbHVlPXZCUUhReWtRcVZPblBKZXVwMjh0UkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
+http://arbiter.bolshoe.tv/?path=streaming/khl/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjYgNjo1NjoxMCBBTSZoYXNoX3ZhbHVlPXZCUUhReWtRcVZPblBKZXVwMjh0UkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL Prime
+http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjYgNjo1NjoxMCBBTSZoYXNoX3ZhbHVlPXZCUUhReWtRcVZPblBKZXVwMjh0UkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport
+http://arbiter.bolshoe.tv/?path=streaming/viasat_sport/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjYgNjo1NjoxMCBBTSZoYXNoX3ZhbHVlPXZCUUhReWtRcVZPblBKZXVwMjh0UkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомплекс 🏆",MMA-TV.COM HD
+http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjYgNjo1NjoxMCBBTSZoYXNoX3ZhbHVlPXZCUUhReWtRcVZPblBKZXVwMjh0UkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Телеканал Футбол
+http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjYgNjo1NjoxMCBBTSZoYXNoX3ZhbHVlPXZCUUhReWtRcVZPblBKZXVwMjh0UkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport HD
+http://arbiter.bolshoe.tv/?path=abr2/viasat_sport_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjYgNjo1NjoxMCBBTSZoYXNoX3ZhbHVlPXZCUUhReWtRcVZPblBKZXVwMjh0UkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,DiviSport
 https://vcdn.produck.company/out/ngrp:divisport_all/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! HD
@@ -1777,27 +1945,6 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-605a309dc5acdc002c7a20aa.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Fight Network
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae877.m3u8
 
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16143/logo_256_1672386465.png", Известия Город Оренбург
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/zy0RtCYFkM0G7qOEiU6o2g,1775458567/streaming/gorod-orenb/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16619/logo_256_1676638161.png", Ники ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/JIKD37KGFdeuhEu4sFeCMA,1775458567/streaming/nikitv/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16899/logo_256_1679058793.png", Дзержинск ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/d1dKVP0yErIUaKeeFxy0Zg,1775458567/streaming/dzertv/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16892/logo_256_1679058569.png", Луганск 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/h3ONpZjWG_tWdZ84esT6bQ,1775458567/streaming/lugansk24/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://dl.dropbox.com/s/ma2jg7ao9rsmxmz/1683279255241.jpg", Щелково 41
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/Eqg-r2axn6BrrWZIiCxmsg,1775458567/streaming/tv41/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16906/logo_256_1679059485.png", 8 канал (Владивосток)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/_wR2paReufHXZVMTZ_aySQ,1775458567/streaming/8kanal-vladik/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/17214/logo_256_1682687911.png", РБК Пермь
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/GP0joF6PVn7dMEdgyFzLqw,1775458567/streaming/rbk-perm/324/1/index.m3u8
 
 
 #EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://i.postimg.cc/ZK8brxhb/Kino-Jam.png",KinoJam
@@ -1965,4 +2112,59 @@ http://kinowalk.hopto.org/childhood_cartoons_live
 #EXTINF:-1 group-title="Кинозалы (VPN)", Мультфильмы 24/7
 http://kinowalk.hopto.org/mezontrop_live
 
-
+#EXTINF:-1 group-title="18+",15. Adult : FANTHD1
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_ellamilano/content/vid01.mp4
+#EXTINF:-1 group-title="18+",16. Adult : FANTHD2
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_anikkaalbrite_tiffanyfox/content/vid01.mp4
+#EXTINF:-1 group-title="18+",17. Adult : FANTHD3
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_caprianderson/content/vid01.mp4
+#EXTINF:-1 group-title="18+",18. Adult : FANTHD4
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_natalieheart_chloefoster/content/vid01.mp4
+#EXTINF:-1 group-title="18+",19. Adult : FANTHD5
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb01/fb01_alicemarch/content/vid01.mp4
+#EXTINF:-1 group-title="18+",20. Adult : FANTHD6
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_hollymichaels/content/vid01.mp4
+#EXTINF:-1 group-title="18+",21. Adult : FANTHD7
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb01/fb01_conniecarter051514/content/vid01.mp4
+#EXTINF:-1 group-title="18+",21. Adult : FANTHD7
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb01/fb01_emilygrey080514/content/vid01.mp4
+#EXTINF:-1 group-title="18+",22. Adult IPTV Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="18+",23. Adult IPTV Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="18+",24. Adult IPTV Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 group-title="18+",25. Adult IPTV Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="18+",26. Adult IPTV Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="18+",27. Adult IPTV Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="18+",28. Adult IPTV Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 group-title="18+",29. Adult IPTV Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="18+",30. Adult IPTV Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 group-title="18+",31. Adult IPTV Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="18+",32. Adult IPTV Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="18+",33. Adult IPTV Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="18+",34. Adult IPTV Milf
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="18+",35. Adult IPTV Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="18+",36. Adult IPTV POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="18+",37. Adult IPTV Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="18+",38. Adult IPTV Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="18+",39. Adult IPTV Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="18+",40. Adult IPTV Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="18+",41. Adult IPTV Interracial
+http://cdn.adultiptv.net/interracial.m3u8

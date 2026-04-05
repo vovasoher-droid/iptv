@@ -3,13 +3,9 @@
 
 #EXTGRP:🇷🇺 Россия 🇷🇺
 https://dl.dropbox.com/scl/fi/w9ijdb5yj1hioh58t6xly/RusIPTV.mp4?rlkey=4unx96o55g1hyef7fzkq0tmzn
-#EXTINF:-1,Первый Канал HD
-#EXTGRP:🇷🇺 Россия 🇷🇺
-https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?*HD
-#---https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?*HD
-#---https://cdn10.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?*HD
-#---http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8??*SD
-#---http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?
+#EXTINF:-1 group-title="🇷🇺 Россия 🇷🇺" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10032/logo_128_1652790001.png", Первый HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/xEvbA3cnlSk326XxZFx8TA,1775458560/streaming/1kanalott/324/5/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="🇷🇺 Россия 🇷🇺" tvg-id="rossia1" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 #EXTINF:-1 group-title="🇷🇺 Россия 🇷🇺" tvg-id="ntv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ (Архив)
@@ -114,130 +110,17 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8?*HD
 #EXTGRP:🇷🇺 Россия 🇷🇺
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8?*
 #---http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8??
-#EXTINF:-1,ТНТ
-#EXTGRP:🇷🇺 Россия 🇷🇺
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8??
-#---http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8??SD
-#---http://dmi3y-tv.ru/hls/T2/CH_TNTHD.m3u8??HD
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="http://i121.fastpic.org/big/2023/0106/41/cecdedb9cc3b8c97f5816cc0c8c71941.png", ТНТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/K-0qavuT57u_5GhpvCWtOg,1775458561/streaming/tntplus4/324/5/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="http://i121.fastpic.org/big/2023/0104/13/3befecb5970b4f9aa1abd28ea7d38a13.png", ТНТ4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/suHl0NmsCtgzWG-Cu1UcTQ,1775458561/streaming/tnt4plus2/324/1/index.m3u8
 #EXTINF:-1,Муз-ТВ
 #EXTGRP:🇷🇺 Россия 🇷🇺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #---http://94.230.240.17:8080/muztv/index.m3u8??+4
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",CHD-TV RU Rock HD
-http://194.26.229.213/chdtv_ru_rock/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",CHD-TV Rock
-http://194.26.229.213/chdtv_rock/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",СоюзМультфильм
-http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",DTR Zona 1
-https://kino-stream.online/hls/DTRZONA1.m3u8
-#EXTINF:-1 group-title="TEST ⓵",DTR Zona 2
-https://kino-stream.online/hls/DTRZONA2.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Ош ТВ [KG]
-http://212.42.117.34:8080/hls/OshTV.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Россия 1 HD
-http://87.246.54.249:8080/Rossia1/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Пятница! International
-http://87.246.54.90:8080/piatnica/mpegts
-#EXTINF:-1 group-title="TEST ⓵",Viasat Nature
-http://87.246.54.249:8080/ViasatNature/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",СТБ UA
-http://87.246.54.249:8080/espressotv/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Мир сериала
-http://87.246.54.249:8080/MirSeriala/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",RTVI
-http://87.246.54.249:8080/RTVI/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",СТС Kids
-http://87.246.54.249:8080/CTC_Kids/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Карусель
-http://87.246.54.249:8080/Karusel/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵", TV1000 HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=hEjt2wWFQHmDkaaBYZu-1w&e=1775684230&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 group-title="TEST ⓵", TV1000 Action
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=HfkR7hbtpynU7YEdVK_v4A&e=1775684246&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 group-title="TEST ⓵",viju TV1000 romantica
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=xnMnLlxg7kDSJUr7Vd2ftQ&e=1775684200&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/J4wRwcQn/i-TV-Cinema-Logo.png",ITV Cinema
-https://iptv.itv.uz/hls/live/t/Yv8TO7PtCQ-DJIbxOr9N_g/e/1799038269/4000/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png",ITV Music
-https://iptv.itv.uz/hls/live/t/iR8iDnzqJIQrEetuXnP3iA/e/1799038327/4001/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Супергерои
-http://86.57.209.210/Malish/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Мульт
-http://86.57.209.210/Mult/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",.SCI-FI
-http://86.57.209.210/Sci-Fi/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Ocean TV
-http://86.57.209.210/Ocean/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Беларусь 24
-http://86.57.209.210/Belarus24/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Шансон ТВ
-http://86.57.209.210/Shanson/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",ТВ3 Беларусь
-http://86.57.209.210/TB-3/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",KHL HD
-http://86.57.209.210/KHL_HD/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Феникс+Кино
-http://86.57.209.210/Fenix/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Россия К
-http://86.57.209.210/Kultura/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵" ,Film.UA Drama
-http://88.99.215.227/FilmUADrama/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Матч! Страна
-http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Viasat Kino Comedy
-http://ukr.ukrainske.tv/493/keytvainua/video.m3u8
-#EXTINF:-1 group-title="TEST ⓵",1+1 Марафон UA
-http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",Cirque du Soleil
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-67642f277c5e3b38af72dcdb.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Загородная жизнь
-http://185.57.68.33/40/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",ДимГрад 24
-http://live-3.otcnet.ru/dimgrad/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Наша тема
-http://live-3.otcnet.ru/nashatema/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Первый Псковский
-http://live-3.otcnet.ru/pskov/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Спортивный
-http://live-3.otcnet.ru/sportivny/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",CGTN Русский
-https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Патриот
-http://185.46.48.18:80/asvtv/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Cinema
-http://185.46.48.18:80/cinema/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Осетия Иристон
-http://185.46.48.18:80/iriston/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Матч ТВ
-http://185.46.48.18:80/match/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Шансон ТВ
-http://185.46.48.18:80/shanson/mono.m3u8
-#EXTINF:-1 group-title="TEST ⓵", Київ HD
-https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
-#EXTINF:-1 group-title="TEST ⓵", 5 Канал HD
-https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
-#EXTINF:-1 group-title="TEST ⓵", Еспресо HD
-https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-id="deutsche-welle-eu", Deutsche Welle
-https://api-tv.ipnet.ua/api/v1/manifest/2118742360.m3u8
-#EXTINF:-1 group-title="TEST ⓵", France 24
-https://api-tv.ipnet.ua/api/v1/manifest/1311962630.m3u8
-#EXTINF:-1 group-title="TEST ⓵", Рада
-https://api-tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
-#EXTINF:-1 group-title="TEST ⓵", UA: ПЕРШИЙ HD
-https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
-#EXTINF:-1 group-title="TEST ⓵", МИ - УКРАЇНА HD
-https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Армія ТБ
-https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
-
-
-
 
 
 

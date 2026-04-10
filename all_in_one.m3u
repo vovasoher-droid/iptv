@@ -1559,15 +1559,6 @@ http://kinowalk.hopto.org/childhood_cartoons_live
 http://kinowalk.hopto.org/mezontrop_live
 
 
-#EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 group-title="Общие", loganettv strawberry
-https://t.me/loganettv_support
-#EXTINF:-1 group-title="Общие", telegram - t.me/loganettv_original
-https://t.me/loganettv_original
-#EXTINF:-1 group-title="Эротика", loganettv strawberry
-https://t.me/loganettv_support
-#EXTINF:-1 group-title="Эротика", telegram - t.me/loganettv_original
-https://t.me/loganettv_original
 #EXTINF:-1 group-title="Эротика", Adult IPTV Big Ass
 http://cdn.adultiptv.net/bigass.m3u8
 #EXTINF:-1 group-title="Эротика", Adult IPTV Big Dick
